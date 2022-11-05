@@ -18,7 +18,24 @@ body {
 
 }
 
+.assignment img:hover {
+    background: #E6E6FA;
+}
+
 h1{
     color:rgb(255, 255, 255);
     text-align:center;  
+}
+
+h1:hover {
+    color:rgb(75, 29, 124);
+}
+
+a {
+    text-decoration:none;
+    color:rgb(75, 29, 124);
+}
+
+a:hover {
+    color:#E6E6FA;
 }
